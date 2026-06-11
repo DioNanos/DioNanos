@@ -18,6 +18,7 @@ binaries, npm) and a Rust-first MCP server stack.
 |---|---|
 | [termux-ai](https://github.com/DioNanos/termux-ai) | Termux fork with per-project workspaces, built for AI CLIs |
 | [AnthMorph](https://github.com/DioNanos/AnthMorph) | Rust API bridge: Codex ⇄ Anthropic Messages ⇄ OpenAI Chat/Responses |
+| [termsearch](https://github.com/DioNanos/termsearch) | Personal search engine for the terminal — one `npm install`, zero config, privacy-first |
 | mcp-*-rs | Rust MCP server stack: memory, retrieval, webfetch, email, voice |
 
 `npm install -g @mmmbuto/codex-vl` — Linux x86_64-musl · Android arm64 · macOS arm64
