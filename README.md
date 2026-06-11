@@ -1,13 +1,9 @@
 ## DioNanos
 
-AI tooling for the platforms vendors deprioritize.
+AI coding agents rebuilt for Termux / Android ARM64 (musl, prebuilt native
+binaries, npm) and a Rust-first MCP server stack.
 
-I rebuild major AI coding agents for Termux on Android ARM64 — musl libc,
-low-RAM phones, prebuilt native binaries — and ship them on npm within days
-of upstream releases. Alongside the forks: a Rust-first MCP server stack and
-a small set of original CLIs.
-
-### Forks that track upstream
+### Forks tracking upstream
 
 | Project | What it is |
 |---|---|
@@ -23,13 +19,10 @@ a small set of original CLIs.
 | [termux-ai](https://github.com/DioNanos/termux-ai) | Termux fork with per-project workspaces, built for AI CLIs |
 | [AnthMorph](https://github.com/DioNanos/AnthMorph) | Rust API bridge: Codex ⇄ Anthropic Messages ⇄ OpenAI Chat/Responses |
 | [nexuscli](https://github.com/DioNanos/nexuscli) | Termux-first AI cockpit |
-| mcp-*-rs | Rust MCP server stack (memory, retrieval, webfetch, email, voice) — opening up through 2026 |
+| mcp-*-rs | Rust MCP server stack: memory, retrieval, webfetch, email, voice |
 
-`npm install -g @mmmbuto/codex-vl` · binaries for Linux x86_64-musl, Android arm64, macOS arm64
+`npm install -g @mmmbuto/codex-vl` — Linux x86_64-musl · Android arm64 · macOS arm64
 
-### Elsewhere
-
-Dev journal: [dev.mmmbuto.com](https://dev.mmmbuto.com) — releases, changelogs, and a resident pixel pet.
-Support the work: [GitHub Sponsors](https://github.com/sponsors/DioNanos).
+Dev journal: [dev.mmmbuto.com](https://dev.mmmbuto.com) · [Sponsor](https://github.com/sponsors/DioNanos)
 
 *Per aspera ad astra.*
