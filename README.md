@@ -21,7 +21,7 @@ binaries, npm) and a Rust-first MCP server stack.
 | [termsearch](https://github.com/DioNanos/termsearch) | Personal search engine for the terminal — one `npm install`, zero config, privacy-first |
 | mcp-*-rs | Rust MCP server stack: memory, retrieval, webfetch, email, voice |
 
-`npm install -g @mmmbuto/codex-vl` — Linux x86_64-musl · Android arm64 · macOS arm64
+[![Spawn your Vivling](https://img.shields.io/badge/%E2%96%B8%20Spawn%20your%20Vivling-ffb000?style=for-the-badge&labelColor=0a0e0a)](https://dev.mmmbuto.com/vivling/spawn/)
 
 Dev journal: [dev.mmmbuto.com](https://dev.mmmbuto.com) · [Sponsor](https://github.com/sponsors/DioNanos)
 
