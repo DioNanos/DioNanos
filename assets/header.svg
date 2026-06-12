@@ -31,8 +31,8 @@
   <circle cx="40" cy="22" r="4.5" fill="#1d3a28"/>
   <circle cx="58" cy="22" r="4.5" fill="#00cc66" opacity="0.55"/>
 
-  <text x="24" y="62"><tspan class="prompt">dag@forge:~$ </tspan><tspan class="cmd">whoami</tspan></text>
+  <text x="24" y="62"><tspan class="prompt">dev@mmmbuto.com:~$ </tspan><tspan class="cmd">whoami</tspan></text>
   <text x="24" y="88"><tspan class="out">DioNanos</tspan><tspan class="dim"> — Rust-first MCP stack · AI agents for edge &amp; Android</tspan></text>
-  <text x="24" y="124"><tspan class="prompt">dag@forge:~$ </tspan><tspan class="cmd">ls products/</tspan></text>
-  <rect class="cursor" x="332" y="111" width="9" height="16"/>
+  <text x="24" y="124"><tspan class="prompt">dev@mmmbuto.com:~$ </tspan><tspan class="cmd">ls products/</tspan></text>
+  <rect class="cursor" x="406" y="111" width="9" height="16"/>
 </svg>
