@@ -29,10 +29,26 @@ We publish what failed, not just what worked.
 | ◈ | [qwen-code-termux](https://github.com/DioNanos/qwen-code-termux) | Qwen Code tuned for Android/Termux |
 | ◈ | [ollama-termux](https://github.com/DioNanos/ollama-termux) | Ollama optimized for Termux ARM64 |
 
-```console
-$ npm install -g @mmmbuto/codex-vl            # the distro, Vivling included
-$ npm install -g @mmmbuto/codex-cli-termux    # Codex on your phone
-$ npm install -g @mmmbuto/termsearch          # search your terminal deserves
+### Install
+
+**codex-vl** — the distro, Vivling included
+```bash
+npm install -g @mmmbuto/codex-vl
+```
+**codex-termux** — Codex on your phone
+```bash
+npm install -g @mmmbuto/codex-cli-termux
+```
+**termsearch** — search from the terminal
+```bash
+npm install -g @mmmbuto/termsearch
+```
+**the memory pair** — prebuilt binaries on every release ([notebook](https://github.com/DioNanos/mcp-memory-rs/releases/latest) · [library](https://github.com/DioNanos/mcp-vl-msa-rs/releases/latest)), or from source:
+```bash
+cargo install --git https://github.com/DioNanos/mcp-memory-rs --locked
+```
+```bash
+cargo install --git https://github.com/DioNanos/mcp-vl-msa-rs --locked --features source-fs mcp-msa-server
 ```
 
 <table border="0"><tr>
