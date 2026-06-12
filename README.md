@@ -39,6 +39,10 @@ npm install -g @mmmbuto/codex-vl
 ```bash
 npm install -g @mmmbuto/codex-cli-termux
 ```
+**ollama-termux** — local models on your phone
+```bash
+npm install -g @mmmbuto/ollama-termux
+```
 **termsearch** — search from the terminal
 ```bash
 npm install -g @mmmbuto/termsearch
