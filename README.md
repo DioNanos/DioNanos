@@ -36,7 +36,7 @@ $ npm install -g @mmmbuto/termsearch          # search your terminal deserves
 ```
 
 <table border="0"><tr>
-<td><img src="assets/vivling-syllo.png" width="72" alt="a Syllo Vivling" style="image-rendering:pixelated"/></td>
+<td><img src="assets/vivling-syllo.svg" width="84" alt="a Syllo Vivling (canon ASCII sprite)"/></td>
 <td>
 <a href="https://dev.mmmbuto.com/vivling/spawn/"><img src="https://img.shields.io/badge/%E2%96%B8%20Spawn%20your%20Vivling-00cc66?style=for-the-badge&labelColor=0a0e0a" alt="Spawn your Vivling"/></a><br/>
 <sub>hatch one in the browser — it remembers you</sub>
