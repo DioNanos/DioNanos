@@ -19,7 +19,7 @@ binaries, npm) and a Rust-first MCP server stack.
 | [termux-ai](https://github.com/DioNanos/termux-ai) | Termux fork with per-project workspaces, built for AI CLIs |
 | [AnthMorph](https://github.com/DioNanos/AnthMorph) | Rust API bridge: Codex ⇄ Anthropic Messages ⇄ OpenAI Chat/Responses |
 | [termsearch](https://github.com/DioNanos/termsearch) | Personal search engine for the terminal — one `npm install`, zero config, privacy-first |
-| mcp-*-rs | Rust MCP server stack: memory, retrieval, webfetch, email, voice |
+| [mcp-memory-rs](https://github.com/DioNanos/mcp-memory-rs) · [mcp-vl-msa-rs](https://github.com/DioNanos/mcp-vl-msa-rs) | Local-first MCP memory servers in pure Rust: curated state + corpus retrieval (more of the stack opening up) |
 
 [![Spawn your Vivling](https://img.shields.io/badge/%E2%96%B8%20Spawn%20your%20Vivling-00cc66?style=for-the-badge&labelColor=0a0e0a)](https://dev.mmmbuto.com/vivling/spawn/)
 
