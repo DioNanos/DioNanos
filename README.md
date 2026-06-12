@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="dag@forge:~$ whoami — DioNanos, Rust-first MCP stack · AI agents for edge & Android" width="100%"/>
+<img src="assets/header-crt.svg" alt="dag@forge:~$ whoami — DioNanos, Rust-first MCP stack · AI agents for edge & Android" width="100%"/>
 
 ### Agent memory — the pair
 
