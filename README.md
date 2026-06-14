@@ -12,7 +12,6 @@ We publish what failed, not just what worked.
 
 ### Products
 
-- ⬢ **[claude-anywhere](https://github.com/DioNanos/claude-anywhere)** — one-command installer for **Claude Code**: official binary + optional custom providers (Z.AI, MiniMax, DeepSeek, Qwen, Kimi, Ollama). Linux · macOS · Termux (proot)
 - ⬢ **[codex-vl](https://github.com/DioNanos/codex-vl)** — Codex distro with a **Vivling** companion aboard: `/vivling`, `/loop`, `/goal`. Linux musl · Android · macOS
 - ⬢ **[termsearch](https://github.com/DioNanos/termsearch)** — personal search engine for the terminal. One `npm install`, zero config, privacy-first
 - ⬢ **[termux-ai](https://github.com/DioNanos/termux-ai)** — Termux rebuilt around per-project workspaces, made for AI CLIs
