@@ -24,36 +24,6 @@ We publish what failed, not just what worked.
 - ◈ **[qwen-code-termux](https://github.com/DioNanos/qwen-code-termux)** — Qwen Code tuned for Android/Termux
 - ◈ **[ollama-termux](https://github.com/DioNanos/ollama-termux)** — Ollama optimized for Termux ARM64
 
-### Install
-
-**claude-anywhere** — Claude Code + your providers, one command
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/DioNanos/claude-anywhere/main/install.sh)
-```
-**codex-vl** — the distro, Vivling included
-```bash
-npm install -g @mmmbuto/codex-vl
-```
-**codex-termux** — Codex on your phone
-```bash
-npm install -g @mmmbuto/codex-cli-termux
-```
-**ollama-termux** — local models on your phone
-```bash
-npm install -g @mmmbuto/ollama-termux
-```
-**termsearch** — search from the terminal
-```bash
-npm install -g @mmmbuto/termsearch
-```
-**the memory pair** — prebuilt binaries on every release ([notebook](https://github.com/DioNanos/mcp-memory-rs/releases/latest) · [library](https://github.com/DioNanos/mcp-vl-msa-rs/releases/latest)), or from source:
-```bash
-cargo install --git https://github.com/DioNanos/mcp-memory-rs --locked
-```
-```bash
-cargo install --git https://github.com/DioNanos/mcp-vl-msa-rs --locked --features source-fs mcp-msa-server
-```
-
 <img src="assets/vivling-syllo.svg" align="left" width="76" alt="a Syllo Vivling (canon ASCII sprite)"/>
 
 [![Spawn your Vivling](https://img.shields.io/badge/%E2%96%B8%20Spawn%20your%20Vivling-00cc66?style=for-the-badge&labelColor=0a0e0a)](https://dev.mmmbuto.com/vivling/spawn/)
