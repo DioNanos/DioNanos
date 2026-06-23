@@ -1,9 +1,10 @@
 <img src="assets/header-crt-m.svg" alt="dev@mmmbuto.com:~$ whoami — DioNanos, Rust-first MCP stack · AI agents for edge & Android" width="560"/>
 
-### Agent memory — the pair
+### MCP servers
 
 - ▣ **[mcp-memory-rs](https://github.com/DioNanos/mcp-memory-rs)** — **the notebook**. Curated agent state: versioned JSON categories, BM25 search, per-device ACL, fleet sync
 - ▣ **[mcp-vl-msa-rs](https://github.com/DioNanos/mcp-vl-msa-rs)** — **the library**. Corpus recall: tantivy BM25, original-text injection, remember/forget capsules
+- ▣ **[mcp-email-rs](https://github.com/DioNanos/mcp-email-rs)** — **the mailbox**. Direct IMAP + SMTP for agents: read, search, organize, draft, send
 
 Pure Rust, zero ML deps, local-first. On the [official MCP registry](https://registry.modelcontextprotocol.io)
 (`io.github.DioNanos/*`) — and every claim ships with
