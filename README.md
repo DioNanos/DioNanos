@@ -5,6 +5,7 @@
 - ▣ **[mcp-memory-rs](https://github.com/DioNanos/mcp-memory-rs)** — **the notebook**. Curated agent state: versioned JSON categories, BM25 search, per-device ACL, fleet sync
 - ▣ **[mcp-vl-msa-rs](https://github.com/DioNanos/mcp-vl-msa-rs)** — **the library**. Corpus recall: tantivy BM25, original-text injection, remember/forget capsules
 - ▣ **[mcp-email-rs](https://github.com/DioNanos/mcp-email-rs)** — **the mailbox**. Direct IMAP + SMTP for agents: read, search, organize, draft, send
+- ▣ **[mcp-crewd-rs](https://github.com/DioNanos/mcp-crewd-rs)** — **the crew**. Cell fabric daemon: spawn and coordinate Claude/Codex/pi worker cells over a Unix socket, audited
 
 Pure Rust, zero ML deps, local-first. On the [official MCP registry](https://registry.modelcontextprotocol.io)
 (`io.github.DioNanos/*`) — and every claim ships with
