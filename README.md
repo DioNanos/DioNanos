@@ -14,6 +14,7 @@ We publish what failed, not just what worked.
 
 ### Products
 
+- ⬢ **[nexuscrew](https://github.com/DioNanos/nexuscrew)** — browser tmux cockpit: real-PTY attach, desktop tiling grid, session lifecycle, optional fleet panel. localhost-only, mobile-first
 - ⬢ **[codex-vl](https://github.com/DioNanos/codex-vl)** — Codex distro with a **Vivling** companion aboard: `/vivling`, `/loop`, `/goal`. Linux musl · Android · macOS
 - ⬢ **[termsearch](https://github.com/DioNanos/termsearch)** — personal search engine for the terminal. One `npm install`, zero config, privacy-first
 - ⬢ **[termux-ai](https://github.com/DioNanos/termux-ai)** — Termux rebuilt around per-project workspaces, made for AI CLIs
