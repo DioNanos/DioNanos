@@ -20,12 +20,6 @@ We publish what failed, not just what worked.
 - ⬢ **[termux-ai](https://github.com/DioNanos/termux-ai)** — Termux rebuilt around per-project workspaces, made for AI CLIs
 - ⬢ **[AnthMorph](https://github.com/DioNanos/AnthMorph)** — Rust API bridge: Codex ⇄ Anthropic Messages ⇄ OpenAI Chat/Responses
 
-### Termux ports — upstream tracking
-
-- ◈ **[codex-termux](https://github.com/DioNanos/codex-termux)** — OpenAI Codex CLI rebuilt for musl + Android ARM64 (Bionic-safe)
-- ◈ **[qwen-code-termux](https://github.com/DioNanos/qwen-code-termux)** — Qwen Code tuned for Android/Termux
-- ◈ **[ollama-termux](https://github.com/DioNanos/ollama-termux)** — Ollama optimized for Termux ARM64
-
 <img src="assets/vivling-syllo.svg" align="left" width="76" alt="a Syllo Vivling (canon ASCII sprite)"/>
 
 [![Spawn your Vivling](https://img.shields.io/badge/%E2%96%B8%20Spawn%20your%20Vivling-00cc66?style=for-the-badge&labelColor=0a0e0a)](https://dev.mmmbuto.com/vivling/spawn/)
@@ -34,5 +28,16 @@ We publish what failed, not just what worked.
 <br clear="left"/>
 
 Dev journal: [dev.mmmbuto.com](https://dev.mmmbuto.com) · [Sponsor](https://github.com/sponsors/DioNanos)
+
+### End of Life
+
+No longer maintained. Final releases may still be published where planned; existing releases and packages stay available as-is.
+
+- ◈ **[codex-termux](https://github.com/DioNanos/codex-termux)** — superseded by [codex-vl](https://github.com/DioNanos/codex-vl)
+- ◈ **[qwen-code-termux](https://github.com/DioNanos/qwen-code-termux)**
+- ◈ **[gemini-cli-termux](https://github.com/DioNanos/gemini-cli-termux)**
+- ◈ **[ollama-termux](https://github.com/DioNanos/ollama-termux)**
+- ◈ **[awesome-mcp-servers](https://github.com/DioNanos/awesome-mcp-servers)**
+- ◈ related npm packages (`grok-termux`, `llama-cpp-termux-*`, `masix`, `zai-codex-bridge`, `zork-termux`) are deprecated on the registry
 
 *Per aspera ad astra.*
