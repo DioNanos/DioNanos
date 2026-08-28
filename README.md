@@ -37,7 +37,6 @@ No longer maintained. Final releases may still be published where planned; exist
 - ◈ **[qwen-code-termux](https://github.com/DioNanos/qwen-code-termux)**
 - ◈ **[gemini-cli-termux](https://github.com/DioNanos/gemini-cli-termux)**
 - ◈ **[ollama-termux](https://github.com/DioNanos/ollama-termux)**
-- ◈ **[awesome-mcp-servers](https://github.com/DioNanos/awesome-mcp-servers)**
 - ◈ related npm packages (`grok-termux`, `llama-cpp-termux-*`, `masix`, `zai-codex-bridge`, `zork-termux`) are deprecated on the registry
 
 *Per aspera ad astra.*
