@@ -14,12 +14,11 @@ We publish what failed, not just what worked.
 
 ### Products
 
-- ⬢ **[nexuscrew](https://github.com/DioNanos/nexuscrew)** — Local-first cockpit for live AI terminal agents — real tmux sessions across phone, desktop and multiple machines.
-- ⬢ **[codex-vl](https://github.com/DioNanos/codex-vl)** — Codex distro with a **Vivling** companion aboard: `/vivling`, `/loop`, `/goal`. Linux musl · Android · macOS
+- ⬢ **[nexuscrew](https://github.com/DioNanos/nexuscrew)** — local-first cockpit for live AI terminal agents — real tmux sessions across phone, desktop and multiple machines
+- ⬢ **[codex-vl](https://github.com/DioNanos/codex-vl)** — Codex distro with a **Vivling** companion aboard: `/vivling`, `/loop`, `/goal`. Linux musl · Android/Termux · macOS
 - ⬢ **[termsearch](https://github.com/DioNanos/termsearch)** — personal search engine for the terminal. One `npm install`, zero config, privacy-first
 - ⬢ **[termux-ai](https://github.com/DioNanos/termux-ai)** — Termux rebuilt around per-project workspaces, made for AI CLIs
 - ⬢ **[AnthMorph](https://github.com/DioNanos/AnthMorph)** — Rust API bridge: Codex ⇄ Anthropic Messages ⇄ OpenAI Chat/Responses
-- ⬢ **[codex-termux](https://github.com/DioNanos/codex-termux)** — native Codex CLI for Termux/Android ARM64; active on a **big releases only** policy for selected upstream milestones
 
 <img src="assets/vivling-syllo.svg" align="left" width="76" alt="a Syllo Vivling (canon ASCII sprite)"/>
 
@@ -34,6 +33,7 @@ Dev journal: [dev.mmmbuto.com](https://dev.mmmbuto.com) · [Sponsor](https://git
 
 No longer maintained. Final releases may still be published where planned; existing releases and packages stay available as-is.
 
+- ◈ **[codex-termux](https://github.com/DioNanos/codex-termux)** — final release moves you to the official Termux package (`pkg install codex`); extras live on in [codex-vl](https://github.com/DioNanos/codex-vl)
 - ◈ **[qwen-code-termux](https://github.com/DioNanos/qwen-code-termux)**
 - ◈ **[gemini-cli-termux](https://github.com/DioNanos/gemini-cli-termux)**
 - ◈ **[ollama-termux](https://github.com/DioNanos/ollama-termux)**
